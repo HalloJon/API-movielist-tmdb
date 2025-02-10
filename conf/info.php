@@ -1,6 +1,6 @@
 <?php
 
-$apikey = "af7d8bb504ee423ac545c25a696c4cc1";
+$apikey = "";
 
 $sitename = "Film List Update";
 $tagline = "Cari movie & tv di sini aja";
